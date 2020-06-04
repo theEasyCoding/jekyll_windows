@@ -1,6 +1,6 @@
 # jekyll_windows
 jekyll_windows tutorial
 
-
-()[https://rubyinstaller.org/downloads/]
+루비 
+https://rubyinstaller.org/downloads/
 
